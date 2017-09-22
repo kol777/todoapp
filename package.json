@@ -1,0 +1,29 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "to do application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolxd/todoapp.git"
+  },
+  "keywords": [
+    "todo",
+    "nodejs"
+  ],
+  "author": "kolxd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolxd/todoapp/issues"
+  },
+  "homepage": "https://github.com/kolxd/todoapp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.12"
+  }
+}
